@@ -1,0 +1,10 @@
+---
+title: Home
+date: 2018-10-03 02:17:00 Z
+---
+
+Welcome,
+to the temporary site for Jadian Gaming.
+Thank you very much for checking us out!
+Unfortunately this github site will mostly be used as a place-holder site.
+But I hope you will check us out anyway!
